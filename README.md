@@ -1,4 +1,4 @@
-# CreaTuLanding1Mendoza
+# CreaTuLandingMendoza
 
 Proyecto desarrollado en React como parte de las entregas del curso de React.
 
